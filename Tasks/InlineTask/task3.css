@@ -1,0 +1,35 @@
+div{
+	color: black;
+	font-family: arial, verdana;
+	font-size: 14px;
+	font-style: italic;
+}
+
+.table{
+	display: table;
+	margin-left:25%;
+	margin-right:25%;
+	border: 2px groove black;
+}
+
+.row{
+	display: table-row;
+}
+
+.cell{
+	display: table-cell;
+	min-width: 100px;
+	padding: 5px;
+}
+
+.red{
+	background-color: #D8D8D8;
+}
+
+.yellow{
+	background-color: #E6E6E6;
+}
+
+.center{
+	text-align: center;
+}

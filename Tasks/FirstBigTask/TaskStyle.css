@@ -1,0 +1,27 @@
+table{
+	border: 2px solid black;
+}
+
+td{
+	padding: 0px 5px;
+}
+
+td, th{
+	width: 100px;
+	border: 1px solid black;
+}
+
+th{
+	padding: 5px 10px;
+	color: white;
+	background-color: black;
+}
+
+th p{
+	box-shadow: 1px 1px 1px 2px gray;
+}
+
+tr{
+	height: 30px;
+	border: 1px solid black;
+}

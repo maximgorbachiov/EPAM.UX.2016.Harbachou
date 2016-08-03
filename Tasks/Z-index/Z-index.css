@@ -1,0 +1,21 @@
+.big-blue{
+	color: blue;
+	font-size: 40px;
+}
+
+.big-red{
+	color: red;
+	font-size: 40px;
+}
+
+
+
+.z-index1{
+	position: absolute;
+	z-index: 1;
+}
+
+.z-index2{
+	position: absolute;
+	z-index: 2;
+}

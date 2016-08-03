@@ -1,0 +1,146 @@
+body{
+	font-family: "Myriad Pro", "Comic Sans MS";
+}
+
+ul{
+    list-style-image: url(black_hole.jpg);
+}
+
+hr{
+	height: 3px;
+	background-color: blue;
+	margin-top: 20px;
+}
+
+span{
+	text-align: center;
+}
+
+p{
+	min-width: 80px;
+}
+
+.main{
+	font-family: "Myriad Pro", "Comic Sans MS";
+	width: 1000px;
+	height:100%;
+	margin: 0% 20%;
+	/*background-image: url("ideal.jpg");
+	background-repeat:no-repeat;*/
+}
+
+.first-column{
+	width: 45%;
+	margin-right: 1%;
+}
+
+.second-column{
+	width: 54%;
+}
+
+.main-head{
+	padding-left: 30%;
+}
+
+.chapter-profile{
+	margin: 10px 0px;
+}
+
+.chapter-contact{
+	margin: 10px 0px;
+}
+
+.chapter-skills{
+	margin: 10px 0px;
+}
+
+.chapter-education{
+	margin: 10px 0px;
+}
+
+.chapter-experience{
+	margin: 10px 0px;
+}
+
+.chapter-software{
+	margin: 10px 0px;
+}
+
+.margin-kill{
+	margin: 0px;
+    margin: 0px;
+}
+
+.chapter-profile .chapter-head{
+	background-image: url(profile.jpg);
+}
+
+.chapter-contact .chapter-head{
+	background-image: url(contact.jpg);
+}
+
+.chapter-skills .chapter-head{
+	background-image: url(skills.jpg);
+}
+
+.chapter-education .chapter-head{
+	background-image: url(education.jpg);
+}
+
+.chapter-experience .chapter-head{
+	background-image: url(experience.jpg);
+}
+
+.chapter-software .chapter-head{
+	background-image: url(software.jpg);
+}
+
+.chapter-head b{
+	font-size: 33px;
+	float: left;
+	color: #3d6cb0;
+	margin-left: 63px;
+}
+
+.chapter-head{
+	height: 50px;
+	padding: 5px;
+	background-repeat: no-repeat;
+	vertical-align: center;
+}
+
+.chapter-body{
+	
+}
+
+.chapter-profile .chapter-body{
+	font-size: 13px;
+}
+
+.chapter-contact .chapter-body div p{
+	font-size: 17px;
+} 
+
+.float-left{
+	float: left;
+}
+
+.font-blue{
+	color: #3d6cb0;
+}
+
+.graphic-designer{
+	font-size: 20px;
+}
+
+.name-here{
+	font-size: 42px;
+}
+
+.surname{
+	font-size: 50px;
+}
+
+.li-element{
+	font-size: 21px;
+}
